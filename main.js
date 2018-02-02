@@ -1,1 +1,3 @@
-console.log(document.cookie);
+window.alertCookie = function() {
+  console.log(document.cookie);
+};
